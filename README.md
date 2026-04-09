@@ -48,6 +48,8 @@ npm install
 npm run dev
 
 ```
+## 🔧 Environment Setup
+Create a `.env` file inside the backend folder based on `.env.example` and add your database credentials.
 
 🔑 Demo Credentials
 Admin: admin@culturalzone.com
